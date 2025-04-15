@@ -24,10 +24,22 @@ It helps security researchers, bug bounty hunters, and penetration testers **aut
 
 ---
 
+## Installation
+
+Clone the tool using Git:
+
+```bash
+git clone https://github.com/wsam0040/wsam.git
+cd wsam
+pip install -r requirements.txt
+```
+
+---
+
 ## Usage
 
 ```bash
-python3 WSAM_TOOL_v5.0.py
+python3 wsamwep.py
 ```
 
 Enter the target URL when prompted. Results will be displayed in the terminal after the scan finishes.
@@ -42,11 +54,6 @@ Unlike many recon tools, WSAM is:
 - **Modular and readable** – designed for easy modifications and extensions.
 - **Focused on results** – packed with features to help you find bugs faster.
 
----
-
-## Screenshot
-
-![wsam screenshot](https://user-images.githubusercontent.com/YOUR-ID/preview.png)
 
 ---
 
