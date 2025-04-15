@@ -29,8 +29,8 @@ It helps security researchers, bug bounty hunters, and penetration testers **aut
 Clone the tool using Git:
 
 ```bash
-git clone https://github.com/wsam0040/wsam.git
-cd wsam
+git clone https://github.com/wsam0040/wsamwep.git
+cd wsamwep
 pip install -r requirements.txt
 ```
 
